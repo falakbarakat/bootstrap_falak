@@ -1,0 +1,23 @@
+* {
+  font-family:sans-serif;
+  
+  box-sizing: border-box;
+}
+h1,
+h2 {
+  font-size: 30px;
+  
+  color: green;
+  margin-bottom: 40;
+}
+body {margin: auto;
+  width: 1024PX;
+  font-size: 30;
+}
+.main-text {
+  text-align: justify;
+  margin-bottom: 30;
+}
+#author-text {
+  color: brown;
+}

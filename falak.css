@@ -1,0 +1,108 @@
+* {
+  font-family: sans-serif;
+}
+h1 {
+  background-color: rgb(226, 177, 114);
+}
+
+#top_bar {
+  width: 100%;
+  border: 1px;
+  height: 52px;
+  background: yellow;
+}
+#first_heading {
+  width: 30%;
+  font-size: 10px;
+  float: left;
+}
+.items {
+  float: left;
+  padding-top: -80px;
+  padding-bottom: 20px;
+  width: 40%;
+  text-size-adjust: 30px;
+}
+.item {
+  display: inline-block;
+  margin: 0.15px;
+  background-color: rgb(232, 232, 236);
+}
+
+body {
+  margin: auto;
+  width: 1024px;
+}
+
+footer {
+  background-color: rgb(61, 42, 165);
+  height: 35px;
+  box-sizing: border-box;
+  text-align: center;
+  padding: 15px;
+  margin: auto;
+  width: 100%;
+}
+#second_heading {
+  font-size: -webkit-xxx-large;
+}
+.article {
+  text-align: justify;
+  background-color: rgb(223, 228, 233);
+  width: 60%;
+  margin-left: 3px;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  float: left;
+}
+
+.sources {
+  /* there is not any marker for list item */
+  list-style-type: none;
+}
+/* header ul li means that the property is adopted on both header and items */
+
+.more {
+  background: rgb(107, 153, 95);
+  width: 20%;
+  border: 5px;
+  float: right;
+  height: 630px;
+  margin-top: -630px;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+#branches {
+  margin-top: 179px;
+  margin-left: 30px;
+}
+.main_contents {
+  background-color: goldenrod;
+  width: 80%;
+  height: 630px;
+  margin-top: -13px;
+}
+
+img {
+  margin-left: 143px;
+  width: 40%;
+  margin-bottom: 10px;
+}
+.contents {
+  text-align: justify;
+  background-color: rgb(223, 228, 233);
+  width: 35%;
+  float: left;
+  height: 429px;
+  margin-left: 10px;
+  margin-top: 4px;
+  margin-bottom: 10px;
+}
+
+header {
+  width: 100%;
+  height: 25px;
+}
+.text {
+  margin: 18px;
+}
