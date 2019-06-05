@@ -139,3 +139,10 @@ if (John.calcBMI() > mark.calcBMI()) {
 } else {
   console.log("both are equals");
 }
+<div id="demo">somecontents</div>
+<script>
+  document.getelementbyid("demo").innerhtml="i love java";
+  alert("i like java");
+  document.write("hi");
+  console.log("hello");
+  </script>
